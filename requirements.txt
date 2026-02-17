@@ -1,0 +1,32 @@
+python-chess
+numpy
+torch
+
+
+________________________________________________________________________________________________________________________
+"📄 requirements.txt
+
+Purpose
+
+Defines the external world this project depends on.
+
+It answers:
+
+What third-party libraries are allowed?
+What is the minimal environment?
+
+
+Architectural meaning
+
+This file is the only place where:
+
+External dependencies are declared
+
+If a library is not here:
+
+It does not exist
+It is not allowed to be used
+This prevents silent coupling and dependency creep."
+________________________________________________________________________________________________________________________
+
+
